@@ -1,0 +1,159 @@
+﻿[
+    {
+        "id":  1,
+        "name":  "AI 产品 PRD 写作指南",
+        "type":  "指南",
+        "model":  "通用",
+        "desc":  "PRD核心理念与写作心法：先写问题→目标→流程→功能，附6步前置思考+19项检查清单",
+        "file":  "AI产品PRD写作指南.md",
+        "tags":  [
+                     "PRD",
+                     "指南",
+                     "检查清单"
+                 ]
+    },
+    {
+        "id":  2,
+        "name":  "AI 生成 PRD prompt模板",
+        "type":  "PRD撰写",
+        "model":  "通用",
+        "desc":  "通用PRD生成模板，让AI一次性输出可交付的多角色PRD文档",
+        "file":  "AI生成PRDprompt模板.md",
+        "tags":  [
+                     "PRD",
+                     "模板"
+                 ]
+    },
+    {
+        "id":  3,
+        "name":  "PRD全流程工作流-AIprompt套件",
+        "type":  "全流程",
+        "model":  "通用",
+        "desc":  "从竞品截图到最终PRD的一站式AI工作流总纲，覆盖6个步骤",
+        "file":  "PRD全流程工作流-AIprompt套件.md",
+        "tags":  [
+                     "PRD",
+                     "全流程",
+                     "工作流"
+                 ]
+    },
+    {
+        "id":  4,
+        "name":  "Prompt 调优指南",
+        "type":  "指南",
+        "model":  "通用",
+        "desc":  "AI产品助理实战手册：核心理念、6步思考框架、4个推荐模板、5项自检清单",
+        "file":  "Prompt调优指南.md",
+        "tags":  [
+                     "调优",
+                     "指南",
+                     "检查清单"
+                 ]
+    },
+    {
+        "id":  5,
+        "name":  "步骤0-需求梳理",
+        "type":  "步骤prompt",
+        "model":  "通用",
+        "desc":  "从录音/聊天记录/用户反馈中提炼结构化需求，输出需求清单+优先级+依赖关系",
+        "file":  "步骤prompt/步骤0-需求梳理.md",
+        "tags":  [
+                     "需求",
+                     "录音",
+                     "梳理"
+                 ]
+    },
+    {
+        "id":  6,
+        "name":  "步骤1-截图转PRD",
+        "type":  "步骤prompt",
+        "model":  "通用",
+        "desc":  "从竞品应用截图提取页面功能和交互逻辑，输出PRD功能清单",
+        "file":  "步骤prompt/步骤1-截图转PRD.md",
+        "tags":  [
+                     "竞品",
+                     "截图",
+                     "PRD"
+                 ]
+    },
+    {
+        "id":  7,
+        "name":  "步骤2-提取设计规范",
+        "type":  "步骤prompt",
+        "model":  "通用",
+        "desc":  "从截图提取色彩/排版/组件的完整设计规范",
+        "file":  "步骤prompt/步骤2-提取设计规范.md",
+        "tags":  [
+                     "设计规范",
+                     "截图",
+                     "提取"
+                 ]
+    },
+    {
+        "id":  8,
+        "name":  "步骤3-重构PRD",
+        "type":  "步骤prompt",
+        "model":  "通用",
+        "desc":  "旧PRD与新设计规范合并，重构为符合新视觉体系的高质量PRD",
+        "file":  "步骤prompt/步骤3-重构PRD.md",
+        "tags":  [
+                     "PRD",
+                     "重构",
+                     "设计规范"
+                 ]
+    },
+    {
+        "id":  9,
+        "name":  "步骤4-重构文案",
+        "type":  "步骤prompt",
+        "model":  "通用",
+        "desc":  "竞品文案差异化改写，适配自身品牌调性，输出差异化文案",
+        "file":  "步骤prompt/步骤4-重构文案.md",
+        "tags":  [
+                     "文案",
+                     "重构",
+                     "差异化"
+                 ]
+    },
+    {
+        "id":  10,
+        "name":  "步骤5-融合输出GM",
+        "type":  "步骤prompt",
+        "model":  "通用",
+        "desc":  "文案定稿后同步回PRD，输出Golden Master交付级文档",
+        "file":  "步骤prompt/步骤5-融合输出GM.md",
+        "tags":  [
+                     "PRD",
+                     "GM",
+                     "交付",
+                     "融合"
+                 ]
+    },
+    {
+        "id":  11,
+        "name":  "步骤6-评审自查",
+        "type":  "步骤prompt",
+        "model":  "通用",
+        "desc":  "PRD正式评审前用AI做扫描检查，发现遗漏、模糊点、不一致处",
+        "file":  "步骤prompt/步骤6-评审自查.md",
+        "tags":  [
+                     "评审",
+                     "自查",
+                     "检查"
+                 ]
+    },
+    {
+        "id":  12,
+        "name":  "Figma链接→PRD交互说明",
+        "tags":  [
+                     "Figma",
+                     "PRD",
+                     "交互",
+                     "流程图"
+                 ],
+        "type":  "PRD撰写",
+        "model":  "GPT/Claude",
+        "desc":  "把Figma链接给AI理解交互流程，自动生成PRD交互说明文档和流程图",
+        "file":  "PRD全流程工作流-AI prompt套件.md"
+    }
+]
