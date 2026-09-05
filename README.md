@@ -1,5 +1,8 @@
 # AI PM Prompt Suite
 
+> © 2026 王天娇（anlan-dev）· GPL-3.0 开源 · 使用时保留作者署名与版权声明 / keep attribution
+
+
 A curated collection of 12 AI prompts covering the complete product manager workflow — from raw requirement discovery to PRD delivery.
 
 Designed for Chinese-speaking AI/tech PMs who use LLMs (ChatGPT, Claude, DeepSeek, etc.) in their daily workflow.
@@ -56,4 +59,4 @@ Open any `.md` file and feed its content to your preferred LLM (ChatGPT, Claude,
 
 ## License
 
-MIT — free to use, modify, and share.
+GPL-3.0 — 保留作者署名权，遵循 GNU GPL v3.0 条款。

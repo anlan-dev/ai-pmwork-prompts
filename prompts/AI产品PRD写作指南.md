@@ -176,3 +176,5 @@ AI 很可能马上写：
 ---
 
 > **PRD 不是写给老板看的，是写给你和开发看的。你写不清楚，开发就猜。开发一猜，产品就走样。**
+
+<!-- (c)2026 WangTianJiao anlan-dev | GPL-3.0 | 保留作者署名 attribution required -->

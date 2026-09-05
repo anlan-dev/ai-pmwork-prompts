@@ -140,3 +140,5 @@ PRD内容：
 ## 五、一句话总结
 
 > **让AI做助手，不是做替身。你不确认的事，AI也不该替你写。**
+
+<!-- (c)2026 WangTianJiao anlan-dev | GPL-3.0 | 保留作者署名 attribution required -->

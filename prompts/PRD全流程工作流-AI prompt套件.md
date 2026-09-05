@@ -88,3 +88,5 @@
 | 有旧版PRD要换UI | ③ → ④ → ⑤ |
 | PRD写完了要检查 | ⑥ |
 | 从零开始写一个完整PRD | 使用通用PRD生成模板 |
+
+<!-- (c)2026 WangTianJiao anlan-dev | GPL-3.0 | 保留作者署名 attribution required -->
